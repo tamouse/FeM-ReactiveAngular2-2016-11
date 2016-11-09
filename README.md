@@ -14,7 +14,7 @@
 
 ## Links
 
-* Slides: [http://onehungrymind.com/slides/fem-reactive.pdf](http://onehungrymind.com/slides/fem-day-one.pdf)
+* Slides: [http://onehungrymind.com/slides/fem-reactive.pdf](http://onehungrymind.com/slides/fem-reactive.pdf)
 * Class project: [ng2-reactive-app](https://github.com/onehungrymind/ng2-reactive-app)
 
 ## Videos
