@@ -34,6 +34,8 @@
 
 * [Segment 5](https://livestream.com/accounts/4894689/events/6613494/videos/141455615)
 
+* [Segment 6](https://livestream.com/accounts/4894689/events/6613494/videos/141463688)
+
 
 
 ## Other stuff
@@ -58,6 +60,10 @@
 
 * [Infographic Observable Cheat Sheet - One Hungry Mind](http://onehungrymind.com/observable-cheat-sheet/)
 
-* ...
+* Suggestion: use the Observable stream challenge as a Coding Kata --
+  an exercise you repeat over and over to build up muscle memory.
 
-## Quotes and Stuff
+  * counter - increment, decremnt
+  * click stream
+  * an interactive game?
+  * etc
