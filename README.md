@@ -26,13 +26,17 @@
 
 * [Segment 1](https://livestream.com/accounts/4894689/events/6613494/videos/141432641)
 
+* [Segment 2](https://livestream.com/accounts/4894689/events/6613494/videos/141437648)
+
 * []()
-
-
 
 ## Other stuff
 
 * Required reading: [Getting Started with Redux - Course by dan_abramov eggheadio](https://egghead.io/courses/getting-started-with-redux)
+
+* [111 AiA Redux and Angular 2 with Nate Murray](https://devchat.tv/adv-in-angular/111-aia-redux-and-angular-2-with-nate-murray)
+
+  Listen to Ward Bell challenge redux and get into it with Lukas
 
 * ...
 
