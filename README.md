@@ -24,7 +24,11 @@
 
 ### Video Segments
 
-* [Link Text](URL )
+* [Segment 1](https://livestream.com/accounts/4894689/events/6613494/videos/141432641)
+
+* []()
+
+
 
 ## Other stuff
 
