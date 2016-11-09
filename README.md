@@ -30,6 +30,8 @@
 
 * [Segment 3](https://livestream.com/accounts/4894689/events/6613494/videos/141441828)
 
+* [Segment 4](https://livestream.com/accounts/4894689/events/6613494/videos/141446919)
+
 * []()
 
 
