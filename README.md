@@ -49,6 +49,10 @@
 
 * [Implementing a Meta-Reducer - A Comprehensive Introduction to ngrxstore - Companion to Egghead.io Series](https://gist.github.com/btroncone/a6e4347326749f938510#implementing-a-meta-reducer)
 
+* [Ultimate Angular Hello RxJS](https://ultimateangular.com/hello-rxjs)
+
+* [Step-by-Step Async JavaScript with RxJS - Course by johnlindquist eggheadio](https://egghead.io/courses/step-by-step-async-javascript-with-rxjs)
+
 * ...
 
 ## Quotes and Stuff
