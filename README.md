@@ -47,6 +47,7 @@
 
 * [Angular Unplugged Show - Episode 2 - Observables in Angular 2 and beyond w Rob Wormald - YouTube](https://www.youtube.com/watch?v=VLGCCpOWFFw&t=5s)
 
+* [A Comprehensive Introduction to ngrxstore - Companion to Egghead.io Series](https://gist.github.com/btroncone/a6e4347326749f938510#implementing-a-meta-reducer)
 
 * ...
 
