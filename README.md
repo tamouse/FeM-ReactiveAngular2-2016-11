@@ -1,8 +1,8 @@
 # Lukas Ruebbelke (@simpulton) teaches Reactive Angular 2 at Frontend Masters, November 2016
 
 * Instructor: Lukas Ruebbelke
-* [GitHub](https://github.com/simpulton)
-* [Twitter](https://twitter.com/simpulton)
+  * [GitHub](https://github.com/simpulton)
+  * [Twitter](https://twitter.com/simpulton)
 * Company: [One Hungry Mind](http://onehungrymind.com)
   * [github](https://github.com/onehungrymind/)
 
@@ -10,7 +10,6 @@
 
 * Node ~> 6
 * npm ~> 3
-
 * NG-CLI app: [https://github.com/angular/angular-cli](https://github.com/angular/angular-cli) - install first!
 
 ## Links
@@ -29,4 +28,6 @@
 
 ## Other stuff
 
-*
+* ...
+
+## Quotes and Stuff
