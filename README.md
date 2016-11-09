@@ -41,6 +41,11 @@
 
   Listen to Ward Bell challenge redux and get into it with Lukas
 
+* Gerard Sans: [Angular 2  Unit Testing recipes  Google Developers Experts  Medium](https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584#.fvw6azfva)
+
+* [Angular Unplugged Show - Episode 2 - Observables in Angular 2 and beyond w Rob Wormald - YouTube](https://www.youtube.com/watch?v=VLGCCpOWFFw&t=5s)
+
+
 * ...
 
 ## Quotes and Stuff
