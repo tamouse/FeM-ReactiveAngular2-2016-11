@@ -28,7 +28,10 @@
 
 * [Segment 2](https://livestream.com/accounts/4894689/events/6613494/videos/141437648)
 
+* [Segment 3](https://livestream.com/accounts/4894689/events/6613494/videos/141441828)
+
 * []()
+
 
 ## Other stuff
 
