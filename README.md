@@ -32,6 +32,8 @@
 
 ## Other stuff
 
+* Required reading: [Getting Started with Redux - Course by dan_abramov eggheadio](https://egghead.io/courses/getting-started-with-redux)
+
 * ...
 
 ## Quotes and Stuff
