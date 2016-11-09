@@ -32,7 +32,8 @@
 
 * [Segment 4](https://livestream.com/accounts/4894689/events/6613494/videos/141446919)
 
-* []()
+* [Segment 5](https://livestream.com/accounts/4894689/events/6613494/videos/141455615)
+
 
 
 ## Other stuff
@@ -52,6 +53,10 @@
 * [Ultimate Angular Hello RxJS](https://ultimateangular.com/hello-rxjs)
 
 * [Step-by-Step Async JavaScript with RxJS - Course by johnlindquist eggheadio](https://egghead.io/courses/step-by-step-async-javascript-with-rxjs)
+
+* [Introduction to Reactive Programming - Course by andrestaltz eggheadio](https://egghead.io/courses/introduction-to-reactive-programming)
+
+* [Infographic Observable Cheat Sheet - One Hungry Mind](http://onehungrymind.com/observable-cheat-sheet/)
 
 * ...
 
